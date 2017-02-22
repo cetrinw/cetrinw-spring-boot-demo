@@ -2,7 +2,6 @@ package com.cetrinw.domain.dao;
 
 import com.cetrinw.domain.entity.BootUser;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 
 /**
  * Created by Cetrin Wang on 2017/2/21.
